@@ -1,8 +1,3 @@
-meg
 HI Sonika 
-This is Meghana
+This is Chiranjeevi M N
 # Git-Learning-Exercise
-
-
-Sharath
-main
